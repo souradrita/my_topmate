@@ -1,1 +1,0 @@
-export default function Success(){return <h1>Booking Confirmed 🎉</h1>}
